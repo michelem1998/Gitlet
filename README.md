@@ -1,6 +1,8 @@
 # Gitlet
 A version control system, similar to Github, that saves and restores backup of files.
 
+Design and implement all the classes, methods, variables and data structures in Java
+
 This project was designed and developed for CS61BL: Data Structures at UC Berkeley in Summer 2018.
 
 ## Installations
